@@ -10,10 +10,9 @@ are urban, suburban, and rural.
 ![](https://github.com/crashdean/PyBer_Analysis/blob/main/Resources/City_type_sum.png)
 
 
-![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Top_Performers.png)
+![](https://github.com/crashdean/PyBer_Analysis/blob/main/Resources/Resources/Sum_by_city_type.png)
 
 
-![](https://github.com/crashdean/School_District_Analysis/blob/main/Resources/Top_Performers.png)
-
+![](https://github.com/crashdean/PyBer_Analysis/blob/main/Resources/City_type_sum.png)
 
 ## Summary
