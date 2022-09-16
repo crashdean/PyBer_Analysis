@@ -27,7 +27,8 @@ Then we use the matplotlib to plot the resamled DataFrame with the corect color 
 
 ## Summary
 
-There are obvious diffenences in the three city types when looking at the graph.   
+1. Plot summary - There are obvious diffenences in the three city types when looking at the graph.  
+ 
 *  The urban drivers with $2466.29 for the week of 2019-02-24 and a low of $1661.68 on 2019-01-06.   
 *  The suburban high of $1412.74 on 2019-02-24 and a low of $721.60 for 2019-01-06, urban fare totals for the week were 57% higher than suburban 
 fare totals.  The urban and suburban high totals accured in the same weeks.   
@@ -37,3 +38,11 @@ fare totals.  The urban and suburban high totals accured in the same weeks.
 late Febuary thru mid April.  
 *  The suburban fare totals followed a simular plot as the urban, but with fewer noticeable peaks.
 *  The urban fare totals were the lowest of the three but had multiple small peaks in fare totals.
+
+2. Business Recommendations
+*  The first recommendation would be to increase the number of rural drivers.  This might work for some rural cities, but further analysis would
+need to be done to determine how many need more driver coverage.
+*  Increaed profits might come from increasing drivers in the urban cities also.  Determing factors such as wait times for drivers to arrive and
+missed rides do to other ride companies taking from the total rides needed.
+*  Adding more drivers in key times would help to increase driver to rides needed.   Peak times could be determined from the plot and moving drivers
+from one city type to another might level the amount of drivers needed.
